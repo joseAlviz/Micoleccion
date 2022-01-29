@@ -1,0 +1,11 @@
+{
+  "description": "Conan el barbaro", 
+  "image": "https://raw.githubusercontent.com/joseAlviz/Micoleccion/main", 
+  "name": "Conan",
+  "attributes": [
+    {
+      "trait_type": "Héroes", 
+      "value": "Independientes"
+    }
+  ]
+}

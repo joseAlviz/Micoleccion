@@ -1,0 +1,11 @@
+{
+  "description": "El payaso loco", 
+  "image": "https://raw.githubusercontent.com/joseAlviz/Micoleccion/main", 
+  "name": "Yoker",
+  "attributes": [
+    {
+      "trait_type": "Villanos", 
+      "value": "Locos"
+    }
+  ]
+}

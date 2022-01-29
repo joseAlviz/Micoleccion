@@ -1,0 +1,11 @@
+{
+  "description": "Prueba", 
+  "image": "https://raw.githubusercontent.com/joseAlviz/Micoleccion/main", 
+  "name": "Hulk",
+  "attributes": [
+    {
+      "trait_type": "Héroes", 
+      "value": "Clásicos"
+    }
+  ]
+}
